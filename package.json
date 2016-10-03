@@ -1,0 +1,19 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "learn express",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammffl/node-express.git"
+  },
+  "author": "Sam Shen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sammffl/node-express/issues"
+  },
+  "homepage": "https://github.com/sammffl/node-express#readme"
+}
